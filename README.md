@@ -1,4 +1,4 @@
-<img src = "https://github.com/Suchana34/Suchana34/blob/master/Pink%20Clouds%20Cute%20Cosmic%20General%20Twitch%20Banner.png">
+<img src = "https://github.com/Suchana34/Suchana34/blob/master/suchana_banner.png">
 <!--
 **Suchana34/Suchana34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
