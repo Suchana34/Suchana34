@@ -9,6 +9,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Suchana34" alt="Suchana34" /></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Suchana34&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchana34&layout=compact&hide=html&theme=light" alt="Suchana34" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suchana34&show_icons=true&theme=light" alt="Suchana34"/>
 
