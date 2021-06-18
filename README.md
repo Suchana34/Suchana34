@@ -1,4 +1,4 @@
-<img src = "https://github.com/Suchana34/Suchana34/blob/master/suchana_banner.png">
+<img src = "https://github.com/Suchana34/Suchana34/blob/master/Suchana Chakrabarti.png">
 
 <h1 align='center'>
   Hey there 👋 I'm Suchana
